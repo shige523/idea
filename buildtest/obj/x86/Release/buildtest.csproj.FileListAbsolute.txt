@@ -1,0 +1,14 @@
+D:\Work\Develop\VC#\buildtest\bin\x86\Release\buildtest.exe.config
+D:\Work\Develop\VC#\buildtest\bin\x86\Release\buildtest.exe
+D:\Work\Develop\VC#\buildtest\obj\x86\Release\buildtest.Form1.resources
+D:\Work\Develop\VC#\buildtest\obj\x86\Release\buildtest.Properties.Resources.resources
+D:\Work\Develop\VC#\buildtest\obj\x86\Release\buildtest.csproj.GenerateResource.cache
+D:\Work\Develop\VC#\buildtest\obj\x86\Release\buildtest.exe
+D:\Work\Develop\VC#\buildtest\obj\x86\Release\buildtest.csprojAssemblyReference.cache
+D:\Work\Develop\idea\buildtest\bin\x86\Release\buildtest.exe.config
+D:\Work\Develop\idea\buildtest\bin\x86\Release\buildtest.exe
+D:\Work\Develop\idea\buildtest\obj\x86\Release\buildtest.csprojAssemblyReference.cache
+D:\Work\Develop\idea\buildtest\obj\x86\Release\buildtest.Form1.resources
+D:\Work\Develop\idea\buildtest\obj\x86\Release\buildtest.Properties.Resources.resources
+D:\Work\Develop\idea\buildtest\obj\x86\Release\buildtest.csproj.GenerateResource.cache
+D:\Work\Develop\idea\buildtest\obj\x86\Release\buildtest.exe

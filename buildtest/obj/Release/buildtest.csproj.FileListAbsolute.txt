@@ -1,0 +1,7 @@
+D:\Work\Develop\VC#\buildtest\bin\Release\buildtest.exe.config
+D:\Work\Develop\VC#\buildtest\bin\Release\buildtest.exe
+D:\Work\Develop\VC#\buildtest\obj\Release\buildtest.csprojAssemblyReference.cache
+D:\Work\Develop\VC#\buildtest\obj\Release\buildtest.Form1.resources
+D:\Work\Develop\VC#\buildtest\obj\Release\buildtest.Properties.Resources.resources
+D:\Work\Develop\VC#\buildtest\obj\Release\buildtest.csproj.GenerateResource.cache
+D:\Work\Develop\VC#\buildtest\obj\Release\buildtest.exe
