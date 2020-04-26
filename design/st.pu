@@ -1,0 +1,10 @@
+@startuml
+class Stopwatcfh {
+    -bool _startFlg
+    +date StartTime
+    +date EmdTime
+
+    +void start()
+    +Date stop()
+}
+@enduml
